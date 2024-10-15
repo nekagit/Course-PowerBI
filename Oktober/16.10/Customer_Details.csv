@@ -1,0 +1,6 @@
+Customer ID, Customer Name, Segment   , City       , State/Province, Country, Postal Code, Customer Since, Loyalty Tier
+C001       , Acme Corp    , Government, Berlin     , Berlin        , Germany, 10115      , 2012-03-15    , Gold
+C002       , TechInnovate , Government, Paris      , Île-de-France , France , 75001      , 2013-07-22    , Silver
+C003       , GlobEx       , Government, Toronto    , Ontario       , Canada , M5H 2N2    , 2011-11-30    , Platinum
+C004       , MexiGov      , Government, Mexico City, CDMX          , Mexico , 06000      , 2014-01-05    , Bronze
+C005       , US Federal   , Government, Washington , DC            , USA    , 20001      , 2010-09-18    , Gold
