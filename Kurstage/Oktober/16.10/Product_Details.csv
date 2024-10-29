@@ -1,0 +1,7 @@
+Product ID, Product  , Category   , Subcategory, Weight, Dimensions, Supplier    , Reorder Point, Lead Time
+P001      , Carretera, Bicycles   , Road       , 7.5 kg, 170x60x20 , VeloTech    , 50           , 14
+P002      , Paseo    , Bicycles   , City       , 13 kg , 180x70x25 , UrbanRides  , 30           , 10
+P003      , Velo     , Bicycles   , Mountain   , 14 kg , 175x65x22 , TrailMasters, 40           , 12
+P004      , VTT      , Accessories, Gear       , 0.5 kg, 20x15x10  , GearUp      , 100          , 7
+P005      , Amarilla , Components , Frame      , 2 kg  , 55x55x10  , FrameWorks  , 25           , 21
+P006      , Montana  , Bicycles   , Mountain   , 15 kg , 178x68x23 , TrailMasters, 35           , 12
